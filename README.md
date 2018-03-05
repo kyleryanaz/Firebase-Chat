@@ -1,3 +1,11 @@
+##Firebase Chat
+#
+
+- Author: Kyle Ryan
+
+- Description: This is a chat application that I built with React and Firebase during my time at Coder Camps. It is the prototype of a working chat component that was integrated into EdDev, a parent-teacher communication app that I built with 4 other programmers at Coder Camps. 
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
