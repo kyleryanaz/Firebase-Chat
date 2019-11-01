@@ -3,7 +3,7 @@
 
 - Author: Kyle Ryan
 
-- Description: This is a chat application that I built with React and Firebase during my time at Coder Camps. It is the prototype of a working chat component that was integrated into EdDev, a parent-teacher communication app that I built with 4 other programmers at Coder Camps. 
+- Description: This is a chat application that I built with React and Firebase during my time at Coder Camps. It is the prototype of a working chat component that was integrated into EdDev, a parent-teacher communication app that I built with 4 other programmers at Coder Camps. To use it you can create your Firebase project and add the info to "authentication.js" within the "firebase" folder.
 #
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
